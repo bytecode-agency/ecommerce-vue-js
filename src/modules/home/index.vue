@@ -6,7 +6,11 @@
         <div class="row no-gutters align-items-center pt-60px">
           <div class="col-5 d-none d-sm-block">
             <div class="hero-banner__img">
-              <img class="img-fluid" src="assets/img/home/hero-banner.png" alt="" />
+              <img
+                class="img-fluid"
+                src="assets/img/home/hero-banner.png"
+                alt=""
+              />
             </div>
           </div>
           <div class="col-sm-7 col-lg-6 offset-lg-1 pl-4 pl-md-5 pl-lg-0">
@@ -18,7 +22,7 @@
                 meat beho upon own earth without morning over third. Their male
                 dry. They are great appear whose land fly grass.
               </p>
-              <a class="button button-hero" href="#">Browse Now</a>
+              <router-link class="button button-hero" to="shopping-category">Browse Now</router-link>
             </div>
           </div>
         </div>
@@ -65,7 +69,11 @@
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="assets/img/product/product1.png" alt="" />
+                <img
+                  class="card-img"
+                  src="assets/img/product/product1.png"
+                  alt=""
+                />
                 <ul class="card-product__imgOverlay">
                   <li>
                     <button><i class="ti-search"></i></button>
@@ -90,7 +98,11 @@
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="assets/img/product/product2.png" alt="" />
+                <img
+                  class="card-img"
+                  src="assets/img/product/product2.png"
+                  alt=""
+                />
                 <ul class="card-product__imgOverlay">
                   <li>
                     <button><i class="ti-search"></i></button>
@@ -115,7 +127,11 @@
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="assets/img/product/product3.png" alt="" />
+                <img
+                  class="card-img"
+                  src="assets/img/product/product3.png"
+                  alt=""
+                />
                 <ul class="card-product__imgOverlay">
                   <li>
                     <button><i class="ti-search"></i></button>
@@ -140,7 +156,11 @@
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="assets/img/product/product4.png" alt="" />
+                <img
+                  class="card-img"
+                  src="assets/img/product/product4.png"
+                  alt=""
+                />
                 <ul class="card-product__imgOverlay">
                   <li>
                     <button><i class="ti-search"></i></button>
@@ -165,7 +185,11 @@
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="assets/img/product/product5.png" alt="" />
+                <img
+                  class="card-img"
+                  src="assets/img/product/product5.png"
+                  alt=""
+                />
                 <ul class="card-product__imgOverlay">
                   <li>
                     <button><i class="ti-search"></i></button>
@@ -190,7 +214,11 @@
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="assets/img/product/product6.png" alt="" />
+                <img
+                  class="card-img"
+                  src="assets/img/product/product6.png"
+                  alt=""
+                />
                 <ul class="card-product__imgOverlay">
                   <li>
                     <button><i class="ti-search"></i></button>
@@ -215,7 +243,11 @@
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="assets/img/product/product7.png" alt="" />
+                <img
+                  class="card-img"
+                  src="assets/img/product/product7.png"
+                  alt=""
+                />
                 <ul class="card-product__imgOverlay">
                   <li>
                     <button><i class="ti-search"></i></button>
@@ -240,7 +272,11 @@
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="card text-center card-product">
               <div class="card-product__img">
-                <img class="card-img" src="assets/img/product/product8.png" alt="" />
+                <img
+                  class="card-img"
+                  src="assets/img/product/product8.png"
+                  alt=""
+                />
                 <ul class="card-product__imgOverlay">
                   <li>
                     <button><i class="ti-search"></i></button>
@@ -302,7 +338,11 @@
         <div class="owl-carousel owl-theme" id="bestSellerCarousel">
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="assets/img/product/product1.png" alt="" />
+              <img
+                class="img-fluid"
+                src="assets/img/product/product1.png"
+                alt=""
+              />
               <ul class="card-product__imgOverlay">
                 <li>
                   <button><i class="ti-search"></i></button>
@@ -326,7 +366,11 @@
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="assets/img/product/product2.png" alt="" />
+              <img
+                class="img-fluid"
+                src="assets/img/product/product2.png"
+                alt=""
+              />
               <ul class="card-product__imgOverlay">
                 <li>
                   <button><i class="ti-search"></i></button>
@@ -350,7 +394,11 @@
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="assets/img/product/product3.png" alt="" />
+              <img
+                class="img-fluid"
+                src="assets/img/product/product3.png"
+                alt=""
+              />
               <ul class="card-product__imgOverlay">
                 <li>
                   <button><i class="ti-search"></i></button>
@@ -374,7 +422,11 @@
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="assets/img/product/product4.png" alt="" />
+              <img
+                class="img-fluid"
+                src="assets/img/product/product4.png"
+                alt=""
+              />
               <ul class="card-product__imgOverlay">
                 <li>
                   <button><i class="ti-search"></i></button>
@@ -398,7 +450,11 @@
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="assets/img/product/product1.png" alt="" />
+              <img
+                class="img-fluid"
+                src="assets/img/product/product1.png"
+                alt=""
+              />
               <ul class="card-product__imgOverlay">
                 <li>
                   <button><i class="ti-search"></i></button>
@@ -422,7 +478,11 @@
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="assets/img/product/product2.png" alt="" />
+              <img
+                class="img-fluid"
+                src="assets/img/product/product2.png"
+                alt=""
+              />
               <ul class="card-product__imgOverlay">
                 <li>
                   <button><i class="ti-search"></i></button>
@@ -446,7 +506,11 @@
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="assets/img/product/product3.png" alt="" />
+              <img
+                class="img-fluid"
+                src="assets/img/product/product3.png"
+                alt=""
+              />
               <ul class="card-product__imgOverlay">
                 <li>
                   <button><i class="ti-search"></i></button>
@@ -470,7 +534,11 @@
 
           <div class="card text-center card-product">
             <div class="card-product__img">
-              <img class="img-fluid" src="assets/img/product/product4.png" alt="" />
+              <img
+                class="img-fluid"
+                src="assets/img/product/product4.png"
+                alt=""
+              />
               <ul class="card-product__imgOverlay">
                 <li>
                   <button><i class="ti-search"></i></button>
@@ -663,7 +731,16 @@
 </template>
 
 <script>
+  import axios from "axios";
   export default {
     name: "Home",
+    mounted() {
+      axios
+        .get("https://api.coindesk.com/v1/bpi/currentprice.json")
+        .then((response) => {
+          (this.info = response)
+          console.log('hello this is', response);
+        });
+    },
   };
 </script>
