@@ -1,9 +1,270 @@
 {
-    "trending-product": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "home-category": [
+    {
+      "id": 1,
+      "image": "assets/img/home/hero-slide1.png",
+      "category": "Accessories",
+      "name": "Wireless Headphone"
+    },
+    {
+      "id": 2,
+      "image": "assets/img/home/hero-slide2.png",
+      "category": "Accessories",
+      "name": "Wireless Headphone"
+    },
+    {
+      "id": 3,
+      "image": "assets/img/home/hero-slide3.png",
+      "category": "Accessories",
+      "name": "Wireless Headphone"
+    },
+    {
+      "id": 4,
+      "image": "assets/img/home/hero-slide4.png",
+      "category": "Accessories",
+      "name": "Wireless Headphone"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Quartz Belt Watch",
+      "category": "Accessories",
+      "price": "150.00",
+      "image": "assets/img/product/product1.png"
+    },
+    {
+      "id": 2,
+      "name": "Women Freshwash",
+      "category": "Beauty",
+      "price": "140.00",
+      "image": "assets/img/product/product2.png"
+    },
+    {
+      "id": 3,
+      "name": "Room Flash Light",
+      "category": "Decor",
+      "price": "145.00",
+      "image": "assets/img/product/product3.png"
+    },
+    {
+      "id": 4,
+      "name": "Room Flash Light",
+      "category": "Decor",
+      "price": "140.00",
+      "image": "assets/img/product/product4.png"
+    },
+    {
+      "id": 5,
+      "name": "Man Office Bag",
+      "category": "Accessories",
+      "price": "145.00",
+      "image": "assets/img/product/product5.png"
+    },
+    {
+      "id": 6,
+      "name": "Charging Car",
+      "category": "Kids Toy",
+      "price": "140.00",
+      "image": "assets/img/product/product6.png"
+    },
+    {
+      "id": 7,
+      "name": "Accessories",
+      "category": "Blutooth Speaker",
+      "price": "140.00",
+      "image": "assets/img/product/product7.png"
+    },
+    {
+      "id": 8,
+      "name": "Kids Toy",
+      "category": "Charging Car",
+      "price": "140.00",
+      "image": "assets/img/product/product8.png"
+    },
+    {
+      "id": 9,
+      "name": "Women Freshwash",
+      "category": "Beauty",
+      "price": "140.00",
+      "image": "assets/img/product/product2.png"
+    },
+    {
+      "id": 10,
+      "name": "Women Freshwash",
+      "category": "Beauty",
+      "price": "140.00",
+      "image": "assets/img/product/product2.png"
+    }
+  ],
+  "best-sellers": [
+    {
+      "id": 1,
+      "name": "Quartz Belt Watch",
+      "category": "Accessories",
+      "price": "150.00",
+      "image": "assets/img/product/product1.png"
+    },
+    {
+      "id": 2,
+      "name": "Women Freshwash",
+      "category": "Beauty",
+      "price": "140.00",
+      "image": "assets/img/product/product2.png"
+    },
+    {
+      "id": 3,
+      "name": "Room Flash Light",
+      "category": "Decor",
+      "price": "145.00",
+      "image": "assets/img/product/product3.png"
+    },
+    {
+      "id": 4,
+      "name": "Room Flash Light",
+      "category": "Decor",
+      "price": "140.00",
+      "image": "assets/img/product/product4.png"
+    },
+    {
+      "id": 5,
+      "name": "Man Office Bag",
+      "category": "Accessories",
+      "price": "145.00",
+      "image": "assets/img/product/product5.png"
+    },
+    {
+      "id": 6,
+      "name": "Charging Car",
+      "category": "Kids Toy",
+      "price": "140.00",
+      "image": "assets/img/product/product6.png"
+    },
+    {
+      "id": 7,
+      "name": "Accessories",
+      "category": "Blutooth Speaker",
+      "price": "140.00",
+      "image": "assets/img/product/product7.png"
+    },
+    {
+      "id": 8,
+      "name": "Kids Toy",
+      "category": "Charging Car",
+      "price": "140.00",
+      "image": "assets/img/product/product8.png"
+    },
+    {
+      "id": 1,
+      "name": "Women Freshwash",
+      "category": "Beauty",
+      "price": "140.00",
+      "image": "assets/img/product/product2.png"
+    },
+    {
+      "id": 1,
+      "name": "Women Freshwash",
+      "category": "Beauty",
+      "price": "140.00",
+      "image": "assets/img/product/product2.png"
+    }
+  ],
+  "top-products": [
+    {
+      "id": 1,
+      "name": "Quartz Belt Watch",
+      "category": "Accessories",
+      "price": "150.00",
+      "image": "assets/img/product/product1.png"
+    },
+    {
+      "id": 2,
+      "name": "Women Freshwash",
+      "category": "Beauty",
+      "price": "140.00",
+      "image": "assets/img/product/product2.png"
+    },
+    {
+      "id": 3,
+      "name": "Room Flash Light",
+      "category": "Decor",
+      "price": "145.00",
+      "image": "assets/img/product/product3.png"
+    },
+    {
+      "id": 4,
+      "name": "Room Flash Light",
+      "category": "Decor",
+      "price": "140.00",
+      "image": "assets/img/product/product4.png"
+    },
+    {
+      "id": 5,
+      "name": "Man Office Bag",
+      "category": "Accessories",
+      "price": "145.00",
+      "image": "assets/img/product/product5.png"
+    },
+    {
+      "id": 6,
+      "name": "Charging Car",
+      "category": "Kids Toy",
+      "price": "140.00",
+      "image": "assets/img/product/product6.png"
+    },
+    {
+      "id": 7,
+      "name": "Accessories",
+      "category": "Blutooth Speaker",
+      "price": "140.00",
+      "image": "assets/img/product/product7.png"
+    },
+    {
+      "id": 8,
+      "name": "Kids Toy",
+      "category": "Charging Car",
+      "price": "140.00",
+      "image": "assets/img/product/product8.png"
+    },
+    {
+      "id": 1,
+      "name": "Women Freshwash",
+      "category": "Beauty",
+      "price": "140.00",
+      "image": "assets/img/product/product2.png"
+    },
+    {
+      "id": 1,
+      "name": "Women Freshwash",
+      "category": "Beauty",
+      "price": "140.00",
+      "image": "assets/img/product/product2.png"
+    }
+  ],
+  "latest-news": [
+    {
+      "id": 1,
+      "author": "Admin",
+      "commentCount": 2,
+      "title": "The Richland Center Shooping News and weekly shooper",
+      "description": "Let one fifth i bring fly to divided face for bearing divide unto seed. Winged divided light Forth.",
+      "image": "assets/img/blog/blog2.png"
+    },
+    {
+      "id": 2,
+      "author": "Admin",
+      "commentCount": 2,
+      "title": "The Shopping News also offers top-quality printing services",
+      "description": "Let one fifth i bring fly to divided face for bearing divide unto seed. Winged divided light Forth.",
+      "image": "assets/img/blog/blog2.png"
+    },
+    {
+      "id": 3,
+      "author": "Admin",
+      "commentCount": 2,
+      "title": "Professional design staff and efficient equipment you’ll find we offer",
+      "description": "Let one fifth i bring fly to divided face for bearing divide unto seed. Winged divided light Forth.",
+      "image": "assets/img/blog/blog3.png"
+    }
+  ]
+}
