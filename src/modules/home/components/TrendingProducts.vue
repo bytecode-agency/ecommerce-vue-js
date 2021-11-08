@@ -3,7 +3,7 @@
   <section class="section-margin calc-60px">
     <div class="container">
       <div class="section-intro pb-60px">
-        <p>Popular Item in the market</p>
+        <p @click="getTredingProducts()">Popular Item in the market</p>
         <h2>Trending <span class="section-intro__style">Product</span></h2>
       </div>
       <div class="row">
@@ -246,7 +246,23 @@
 </template>
 
 <script>
+  import { RestAPIService } from '../../../core/services/https/rest-api.service';
+  import { APIEndPoint } from '../../../core/services/https/APIEndPoint';
   export default {
     name: "TrendingProducts",
+    data() {
+      return {
+        trendingProducts: [],
+      };
+    },
+    mounted () {
+      this.getTredingProducts()
+    },
+    methods: {
+      async getTredingProducts() {
+        const result = await RestAPIService.invoke(APIEndPoint.getTopProducts);
+        console.log("hello", result);
+      },
+    },
   };
 </script>
